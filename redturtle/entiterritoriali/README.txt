@@ -3,7 +3,8 @@ Introduction
 This package provides vocabulary for all italian 'enti territoriali'.
 For storage we are using sqlite3 database wrapped with sqlalchemy.
 
-First lets import the vocabulary (which should have already a vocabulary object).
+First lets import the vocabulary (which should have already a vocabulary object)::
+
     >>> from redturtle.entiterritoriali import EntiVocabulary as EV
 
 Now let's try the simple query: for regione, provincia and comune::
