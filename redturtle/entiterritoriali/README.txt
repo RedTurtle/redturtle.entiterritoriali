@@ -80,6 +80,15 @@ But it should work also for different enti in one vocabulary, like here::
     [(u'03', u'Lombardia'), (u'038008', u'Ferrara')]
 
 
+Credits
+=======
+
+Developed with the support of  `Regione Emilia Romagna`__;  Regione Emilia Romagna supports the `PloneGov initiative`__.
+
+__ http://www.regione.emilia-romagna.it/
+__ http://www.plonegov.it/
+
+
 Authors
 =======
 
