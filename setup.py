@@ -8,7 +8,7 @@ tests_require = ['zope.testing']
 setup(name='redturtle.entiterritoriali',
       version=version,
       description="Package contatins all italian enti territoriali in sqlite db",
-      long_description=open(os.path.join("redturtle/entiterritoriali", "README.txt")).read() + "\n" +
+      long_description=open(os.path.join("redturtle/entiterritoriali", "README.rst")).read() + "\n" +
                        open("HISTORY.txt").read(),
       # Get more strings from http://www.python.org/pypi?%3Aaction=list_classifiers
       classifiers=[
