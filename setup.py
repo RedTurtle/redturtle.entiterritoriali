@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '0.2.3.dev0'
+version = '0.3'
 
 tests_require = ['zope.testing']
 
@@ -29,7 +29,8 @@ setup(name='redturtle.entiterritoriali',
       install_requires=[
           'setuptools',
           'pysqlite',
-          'SQLAlchemy',
+          'sqlsoup',
+          'SQLAlchemy>=0.8',
           # -*- Extra requirements: -*-
       ],
       tests_require=tests_require,

@@ -1,4 +1,4 @@
-from sqlalchemy.ext.sqlsoup import SqlSoup
+from sqlsoup import SqlSoup
 from sqlalchemy import or_
 import os
 

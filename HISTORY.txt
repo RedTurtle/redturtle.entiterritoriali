@@ -1,10 +1,10 @@
 HISTORY
 =========
 
-0.2.3 (unreleased)
-------------------
+0.3 (2013-12-16)
+----------------
 
-- Nothing changed yet.
+- compatibility with SQLAlchemy 0.8 [amleczko]
 
 
 0.2.2 (2013-11-12)
