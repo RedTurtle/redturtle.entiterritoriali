@@ -1,7 +1,7 @@
 HISTORY
 =========
 
-0.3.2 (unreleased)
+0.3.2 (2014-11-07)
 ------------------
 
 - fix import for sqlsoup [cekk]
