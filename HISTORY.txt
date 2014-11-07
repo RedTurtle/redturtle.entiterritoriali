@@ -4,7 +4,7 @@ HISTORY
 0.3.1 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Updated with new italian districts [cekk]
 
 
 0.3 (2013-12-16)
