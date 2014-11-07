@@ -1,4 +1,4 @@
-from sqlsoup import SqlSoup
+from sqlsoup import SQLSoup
 from sqlalchemy import or_
 import os
 
@@ -11,7 +11,7 @@ class SQLite3Vocab(object):
         else:
             raise SystemError, 'SQLite3Vocab is singleton.'
         path = os.path.dirname( os.path.realpath( __file__ ) )
-        self.engine = SqlSoup('sqlite:////%s/sqlite3.db' % path)
+        self.engine = SQLSoup('sqlite:////%s/sqlite3.db' % path)
         self.comune_id = self.engine.comuni.codice_istat
         self.provincia_id = self.engine.province.sigla
         self.regione_id = self.engine.regioni.codice_istat

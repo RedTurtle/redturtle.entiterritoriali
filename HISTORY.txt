@@ -4,13 +4,13 @@ HISTORY
 0.3.2 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- fix import for sqlsoup [cekk]
 
 
 0.3.1 (2014-11-07)
 ------------------
 
-- Updated with new italian districts [cekk]
+- updated with new italian districts [cekk]
 
 
 0.3 (2013-12-16)
