@@ -4,7 +4,7 @@ HISTORY
 0.3.4 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- update new Emilia-Romagna merged comuni [cekk]
 
 
 0.3.3 (2014-11-10)
