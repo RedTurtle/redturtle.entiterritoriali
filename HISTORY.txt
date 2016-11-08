@@ -4,7 +4,7 @@ HISTORY
 0.4.1 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- fix typo [cekk]
 
 
 0.4.0 (2016-08-02)
